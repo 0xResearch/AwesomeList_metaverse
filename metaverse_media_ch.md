@@ -1,3 +1,11 @@
+# 元宇宙 metaverse 中文資訊
+
+統整『元宇宙』主題的相關中文資訊。  
+歡迎來信推薦補充 0xmagresearch@gmail.com or PR
+
+# wiki 科普
+https://zh.wikipedia.org/zh-tw/%E5%85%83%E5%AE%87%E5%AE%99
+
 # 平面媒體
 元宇宙 | 遠見雜誌 - 前進的動力
 https://www.gvm.com.tw/tags/%E5%85%83%E5%AE%87%E5%AE%99
@@ -56,3 +64,15 @@ https://abmedia.beginner.com.tw/tag/metaverse
 
 元宇宙 | Business Digest
 https://businessdigest.io/tag/%E5%85%83%E5%AE%87%E5%AE%99
+
+元宇宙 - 鏡週刊 Mirror Media
+https://www.mirrormedia.mg/tag/617640b01347d20f00f147a6
+
+元宇宙_元宇宙相关新闻_金色财经
+https://m.jinse.com/tag/%E5%85%83%E5%AE%87%E5%AE%99
+
+元宇宙 相關文章 | TechOrange 科技報橘
+https://buzzorange.com/techorange/tag/%E5%85%83%E5%AE%87%E5%AE%99/
+
+元宇宙相关文章_36氪
+https://www.36kr.com/search/articles/%E5%85%83%E5%AE%87%E5%AE%99
